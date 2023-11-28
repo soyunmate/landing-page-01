@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  width: 95vw;
+  display: table-cell;
+  vertical-align: middle;
+}
